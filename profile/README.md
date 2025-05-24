@@ -1,4 +1,4 @@
-# Welcome to the metatensor organization
+# Welcome to the metatensor team homepage
 
 ![metatensor logo](metatensor-horizontal-dark.svg)
 
